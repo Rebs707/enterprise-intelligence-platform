@@ -26,5 +26,5 @@ See `diagrams/enterprise-intelligence-platform-architecture.md`
 
 ## Version
 
-vv1.0.0
 V1.0.0
+
