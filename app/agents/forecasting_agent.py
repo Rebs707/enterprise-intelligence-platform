@@ -1,0 +1,2 @@
+class ForecastingAgent:
+    pass

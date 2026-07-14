@@ -1,0 +1,2 @@
+class InsightsAgent:
+    pass
