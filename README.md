@@ -25,6 +25,5 @@ See `diagrams/enterprise-intelligence-platform-architecture.md`
 - Pytest
 
 ## Version
-
 V1.0.0
 
