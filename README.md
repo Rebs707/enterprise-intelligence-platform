@@ -24,6 +24,5 @@ See `diagrams/enterprise-intelligence-platform-architecture.md`
 - Docker
 - Pytest
 
-## Version
-V1.0.0
+
 
